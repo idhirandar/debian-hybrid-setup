@@ -42,3 +42,4 @@ cd debian-server-guide
 
 # Run the basic setup first (highly recommended)
 sudo bash setup-basic.sh
+```
